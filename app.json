@@ -23,7 +23,7 @@
       "value": ""
     },
     "DATABASE_URL": {
-      "description": "Paste your mongo db url https://youtu.be/qFB0cFqiyOM?si=9rfd9AawasXLp_oE",
+      "description": "Paste your mongo db url ",
       "value": "url"
     },
     "DATABASE_NAME":{
